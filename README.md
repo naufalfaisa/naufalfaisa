@@ -1,5 +1,5 @@
 ## 💫 Welcome
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naufal!;I+love+music+%26+coding🎧)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naufal!)
 
 ## 🎧 Currently Listening
 ![Last.fm playing](https://lastfm-recently-played.vercel.app/api?user=naufalfaisa&width=500)
