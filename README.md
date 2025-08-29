@@ -1,14 +1,25 @@
 ## 💫 Welcome
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hi%2C+I'm+Naufal!)
+
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&color=FFFFFF&lines=Hi%2C+I'm+Naufal!" />
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&color=000000&lines=Hi%2C+I'm+Naufal!" />
+  <!-- Fallback -->
+  <img alt="Typing SVG"
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&color=000000&lines=Hi%2C+I'm+Naufal!" />
+</picture>
 
 ## 🎧 Currently Listening
 ![Last.fm playing](https://lastfm-recently-played.vercel.app/api?user=naufalfaisa&width=500)
 
-## 🐱 About Me
+## 🐱 Socials
+[![X](https://img.shields.io/badge/@naufalfaisa-000000?style=flat&logo=x&logoColor=white)](https://x.com/naufalfaisa)
 [![Instagram](https://img.shields.io/badge/@naufalfaisa_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/naufalfaisa_)
 [![Facebook](https://img.shields.io/badge/@naufalfaisa17-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/naufalfaisa17)
-[![Telegram](https://img.shields.io/badge/@naufalfaisa-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/naufalfaisa)  
-[![Email](https://img.shields.io/badge/naufalfaisa386@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naufalfaisa386@gmail.com)
+[![GitHub](https://img.shields.io/badge/naufalfaisa-181717?style=flat&logo=github&logoColor=white)](https://github.com/naufalfaisa)
 
 <!---
 naufalfaisa/naufalfaisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
