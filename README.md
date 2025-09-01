@@ -10,9 +10,9 @@
        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=435&color=000000&lines=Welcome!;Hi%2C+I'm+Naufal!" />
 </picture>
 
-<img src="assets/bocchi-the-rock-characters-train-ride-g98icngc2429boex.jpg" 
+<img src="https://raw.githubusercontent.com/naufalfaisa/naufalfaisa/main/assets/bocchi-the-rock-characters-train-ride-g98icngc2429boex.jpg" 
      alt="Bocchi The Rock" 
-     width="400"/> <!-- Lebar 400px, tinggi otomatis -->
+     width="400"/>
 
 ![Last.fm playing](https://lastfm-recently-played.vercel.app/api?user=naufalfaisa&width=500)
 
