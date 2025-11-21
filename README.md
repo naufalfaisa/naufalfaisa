@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<img src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" width="200px" align="right">
+<img src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" width="200px">
 
 ### 😺Profile views
 
