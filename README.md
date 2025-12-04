@@ -15,11 +15,9 @@
 
 ## About Me
 
-I am an undergraduate Informatics student interested in software development and problem-solving, currently focused on learning and experimenting with different tools and technologies:
-- Building CLI tools, web applications, and backend systems.
-- Exploring Node.js, JavaScript, Python, Go, and other programming languages.
-- Writing efficient, scalable, and maintainable code.
-- Learning new technologies and frameworks.
+Hi! I'm Naufal Faisa, a Bachelor's degree student in Informatics Engineering with a passion for programming. I love exploring different tools and technologies and seeing what I can build.
+
+I'm currently learning to build CLI tools, web applications, and backend systems, while also learning JavaScript, Python, Go, and Node.js. Writing clean and efficient code has always been my goal.
 
 <!--
 **naufalfaisa/naufalfaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
