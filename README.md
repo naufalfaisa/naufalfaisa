@@ -13,7 +13,6 @@
 ## About Me
 
 Hi! I'm Naufal Faisa, a Bachelor's degree student in Informatics Engineering with a passion for programming.
-
 I am currently learning to build CLI tools, web applications, and backend systems, while also improving my skills in JavaScript, Python, Go, and React.
 
 <!--
