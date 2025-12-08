@@ -1,23 +1,20 @@
-<div align="center">
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
-    </picture>
-  </p>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=FFFFFF&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=000000&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
+  </picture>
+</p>
 
-  <img src="https://giffiles.alphacoders.com/221/221700.gif" height="200px">
+### 😺Profile views
 
-  ### 😺Profile views
-  <img src="https://count.getloli.com/get/@naufalfaisa" alt="Visitor Count" />
-</div>
+<img src="https://count.getloli.com/get/@naufalfaisa" alt="Visitor Count" />
 
 ## About Me
 
-Hi! I'm Naufal Faisa, a Bachelor's degree student in Informatics Engineering with a passion for programming. I love exploring different tools and technologies and seeing what I can build.
+Hi! I'm Naufal Faisa, a Bachelor's degree student in Informatics Engineering with a passion for programming.
 
-I'm currently learning to build CLI tools, web applications, and backend systems, while also learning JavaScript, Python, Go, and Node.js. Writing clean and efficient code has always been my goal.
+I am currently learning to build CLI tools, web applications, and backend systems, while also improving my skills in JavaScript, Python, Go, and React.
 
 <!--
 **naufalfaisa/naufalfaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
