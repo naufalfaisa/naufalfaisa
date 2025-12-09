@@ -10,7 +10,7 @@
 
 <img src="https://count.getloli.com/get/@naufaisa17" alt="Visitor Count" />
 
-## About Me
+### About Me
 
 - Informatics Engineering student focused on developing CLI tools, web applications, and backend systems.
 - Actively improving programming skills in JavaScript, Python, Go, and React.
