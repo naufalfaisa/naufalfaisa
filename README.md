@@ -8,12 +8,12 @@
 
 ### 😺Profile views
 
-<img src="https://count.getloli.com/get/@naufalfaisa" alt="Visitor Count" />
+<img src="https://count.getloli.com/get/@naufaisa17" alt="Visitor Count" />
 
 ## About Me
 
-Hi! I'm Naufal Faisa, a Bachelor's degree student in Informatics Engineering with a passion for programming.
-I am currently learning to build CLI tools, web applications, and backend systems, while also improving my skills in JavaScript, Python, Go, and React.
+- Informatics Engineering student focused on developing CLI tools, web applications, and backend systems.
+- Actively improving programming skills in JavaScript, Python, Go, and React.
 
 <!--
 **naufalfaisa/naufalfaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
