@@ -1,8 +1,8 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=FFFFFF&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1200&color=000000&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3600&pause=1800&color=FFFFFF&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3600&pause=1800&color=000000&width=550&lines=Hi+There!;I'm+Naufal;Welcome!" />
   </picture>
 </p>
 
